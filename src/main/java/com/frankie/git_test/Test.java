@@ -13,4 +13,12 @@ public class Test {
     public void a1(){
         System.out.println("a1");
     }
+
+    public void b1(){
+        System.out.println("b1");
+    }
+
+    public void b2(){
+        System.out.println("b2");
+    }
 }
